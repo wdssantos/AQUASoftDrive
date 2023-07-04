@@ -1,3 +1,3 @@
-const message = "hellow word!";
+const message = "Hello Word";
 
 console.log(message);
